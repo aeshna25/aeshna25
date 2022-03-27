@@ -7,11 +7,9 @@
 - [Gmail](aeshnaagg@gmail.com)
 
  ## Check out my latest articles
- [![Article 1](https://mediumblog-cards.vercel.app/getMediumBlogs?username=aeshnagupta)](hhttps://medium.com/@aeshnagupta)
+ [![Aeshna Gupta medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=aeshnagupta)](hhttps://medium.com/@aeshnagupta)
  
-<a target="_blank" href="https://medium.com/@aeshnagupta/lesser-used-python-functions-7aafe362d983 "><img src="https://medium.com/@aeshnagupta" alt="Recent Article 0"> 
 
-<a target="_blank" href="https://medium.com/@aeshnagupta/5-methods-to-do-emotion-analysis-on-text-data-98cf662efc12"><img src="https://medium.com/@aeshnagupta" alt="Recent Article 2"> 
  
 <!---
 aeshna25/aeshna25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
