@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @aeshna25
+- I completed my undergrad in 2020 and since than working as lead Data scientist in my team at Dell Technologies
 - 👀 I love data science, visualization, music and digital illustration
 - 🌱 I m currently sharing a lit bit of my knowledge through blogs
 - 💞️ Connect with me on:
@@ -13,8 +14,10 @@ https://medium.com/@aeshnagupta/5-methods-to-do-emotion-analysis-on-text-data-98
 <a target="_blank" href="https://medium.com/@aeshnagupta/lesser-used-python-functions-7aafe362d983 "><img src="https://medium.com/@aeshnagupta/lesser-used-python-functions-7aafe362d983" alt="Recent Article 0"> 
 
 <a target="_blank" href="https://medium.com/@aeshnagupta/5-methods-to-do-emotion-analysis-on-text-data-98cf662efc12"><img src="https://medium.com/@aeshnagupta/5-methods-to-do-emotion-analysis-on-text-data-98cf662efc12" alt="Recent Article 2"> 
+ 
 <!---
 aeshna25/aeshna25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
+![image](https://user-images.githubusercontent.com/31938370/160291011-da09de8a-d284-4fc4-a363-70f175a41602.png)
