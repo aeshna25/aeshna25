@@ -7,9 +7,7 @@
 - [Gmail](aeshnaagg@gmail.com)
 
  ## Check out my latest articles
-https://medium.com/@aeshnagupta/lesser-used-python-functions-7aafe362d983/<aeshna-gypta>/<1>
-https://medium.com/@aeshnagupta/5-methods-to-do-emotion-analysis-on-text-data-98cf662efc12/<aeshna-gypta>/<2>
-
+ [![Article 1](https://mediumblog-cards.vercel.app/getMediumBlogs?username=aeshnagupta)](hhttps://medium.com/@aeshnagupta)
  
 <a target="_blank" href="https://medium.com/@aeshnagupta/lesser-used-python-functions-7aafe362d983 "><img src="https://medium.com/@aeshnagupta" alt="Recent Article 0"> 
 
@@ -21,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Aeshna Gupta Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=aeshnagupta)](hhttps://medium.com/@aeshnagupta)
+
