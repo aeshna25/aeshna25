@@ -5,6 +5,7 @@
 - 💞️ Connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/aeshna-gupta-6b37b4165/)
 - [Gmail](aeshnaagg@gmail.com)
+- [Project Portfolio](https://aeshna25.github.io/Aeshna_Portfolio/)
 
  ## Check out my latest articles
  [![Aeshna Gupta medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=aeshnagupta)](hhttps://medium.com/@aeshnagupta)
