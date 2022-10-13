@@ -6,6 +6,7 @@
 - [LinkedIn](https://www.linkedin.com/in/aeshna-gupta-6b37b4165/)
 - [Gmail](aeshnaagg@gmail.com)
 - [Project Portfolio](https://aeshna25.github.io/Aeshna_Portfolio/)
+- [Logo](https://github-readme-stats.vercel.app/api?username=aeshna25&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
  ## Check out my latest articles
  [![Aeshna Gupta medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=aeshnagupta)](hhttps://medium.com/@aeshnagupta)
