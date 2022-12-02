@@ -6,6 +6,7 @@
 - [LinkedIn](https://www.linkedin.com/in/aeshna-gupta-6b37b4165/)
 - [Gmail](aeshnaagg@gmail.com)
 - [Project Portfolio](https://aeshna25.github.io/Aeshna_Portfolio/)
+- [Digital Resume](https://aeshna-gupta-digital-portfolio.streamlit.app/)
 
 
  ## Check out my latest articles
