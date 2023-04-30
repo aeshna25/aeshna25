@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aeshna25
-- I completed my undergrad in 2020 and since than working as lead Data scientist in my team at Dell Technologies
+- I completed my undergrad in 2020 and since than working as a Data scientist in my team at Dell Technologies
 - 👀 I love data science, visualization, music and digital illustration
 - 🌱 I m currently sharing a lit bit of my knowledge through blogs
 - 💞️ Connect with me on:
