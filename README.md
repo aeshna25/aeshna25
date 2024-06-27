@@ -5,7 +5,7 @@
 - 💞️ Connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/aeshna-gupta-6b37b4165/)
 - [Gmail](aeshnaagg@gmail.com)
-- [Project Portfolio]([https://aeshna25.github.io/Aeshna_Portfolio/](https://aeshna25.github.io/Portfolio_website.github.io/))
+- [Project Portfolio](https://aeshna25.github.io/Portfolio_website.github.io/)
 - [Digital Resume](https://aeshna-gupta-digital-portfolio.streamlit.app/)
 
 
